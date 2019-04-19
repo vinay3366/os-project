@@ -1,3 +1,6 @@
+*/ If a teacher is being served and during the period when he is being served, another teacher comes, then that teacher would get the
+service next. This process might continue leading to increase in waiting time of students. Ensure in your program that the waiting time 
+of students is minimized /*
 #include<stdio.h>
 int no_studen=0;
 int no_teach=0;
